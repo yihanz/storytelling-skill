@@ -32,9 +32,9 @@ When the artifact fails, the failure names the stage that produced it. Re-enter 
 Before anything else, establish:
 
 - **Is meaning architecture open?** If an exact schema, an approved script, a legal form, or a direct factual answer already determines the form, stop and do that instead. Refusing to architect is a correct outcome and should be stated plainly, not performed as a smaller version of the work.
-- **Truth mode.** Factual, illustrative, hypothetical, fictional, or hybrid. Everything downstream depends on it. State it explicitly.
+- **Truth mode.** Factual, illustrative, hypothetical, fictional, or hybrid. Everything downstream depends on it, and it is rarely stated in the request. Establish it explicitly.
 - **Fixed constraints.** Voice, length, format, exact contracts, brand, legal, accessibility floor. These bind; they are not preferences to optimize against.
-- **Is the request possible?** If the audience is meant to reach a conclusion the material does not support, name that now. Do not deliver an artifact that papers over the gap.
+- **Is the request possible?** If the audience is meant to reach a conclusion the material does not support, name that now. Naming the gap costs one conversation; an artifact built over it fails later and takes its credibility with it.
 
 ### 2. Ground — build the truth model and the transition
 
@@ -57,7 +57,7 @@ Close Ground by answering one question: **what would make this artifact wrong?**
 
 Produce at least three materially different architectures. Different means a different job for the audience or a different organizing relation, not the same spine with a new opening.
 
-Reject the first fitting structure before treating any candidate as final. Build candidates cheaply, in outline. A structure that cannot be sketched quickly is one whose load-bearing relationship has not been found yet; treat the failure to sketch as a finding about the material.
+Reject the first fitting structure before treating any candidate as final, because convention arrives first and the first fit is usually the conventional one. Build candidates cheaply, in outline. A structure that cannot be sketched quickly is one whose load-bearing relationship has not been found yet; treat the failure to sketch as a finding about the material.
 
 **Always include the non-narrative candidate.** If a direct answer, table, map, schema, runbook, comparison, or decision record would serve better, it must be in the running.
 
@@ -65,7 +65,7 @@ Reject the first fitting structure before treating any candidate as final. Build
 
 Choose by audience outcome, truth, surface fit, and evidence visibility. Not by drama, cleverness, novelty, or which candidate is cheapest to produce.
 
-Record the runner-up and why it lost, in the working notes rather than the deliverable. The record makes the choice checkable and gives Attack a re-entry point.
+Record the runner-up and why it lost, in the working notes rather than the deliverable. The record makes the choice checkable, and because Attack routes failures back to the stage that produced them, it is the re-entry point when the choice turns out to be wrong.
 
 ### 5. Build — architecture, sequence, channels, composition
 
@@ -84,7 +84,7 @@ Record the runner-up and why it lost, in the working notes rather than the deliv
 
 Combine families when the audience has several jobs, and make each mode change legible.
 
-**Decide the architecture before opening the tool that renders it.** Every authoring surface carries a default structure — the bullet slide, the document outline, the database template, the field set — and that default becomes the structure of the meaning unless a decided architecture is already in place.
+**Decide the architecture before opening the tool that renders it.** Every authoring surface carries a default structure — the bullet slide, the document outline, the database template, the field set — and that default becomes the structure of the meaning unless a decided architecture is already in place. Ease of construction in a tool is not evidence about the material.
 
 **Units.** For sequential artifacts, treat each beat as a unit with an audience-facing function, not as a fixed slide, sentence, or section. For non-linear surfaces, design functional units, entry paths, relationships, and routes. For each unit know what the audience needs to enter it, what it supplies, why the next beat or route becomes useful, which source supports it, and which channel carries it. State that job in one line: a unit needing a paragraph is several units, or one whose function is undecided.
 
@@ -100,7 +100,7 @@ For live delivery, design speaker and surface together and give the speaker a st
 
 **Composition.** Concrete actors, actions, examples, and quantities where they carry meaning. Preserve technical language and abstraction when they are the accurate form of the idea. Explain unfamiliar terms at the point of need.
 
-A quantity means something only against a reference frame the audience already holds — a rate, duration, comparison, or familiar equivalent. Supply it, then check what it asserts: a comparison is a claim about relevance, and a poor comparator misleads more efficiently than the bare number. Keep every qualifier the number travels with.
+A quantity means something only against a reference frame the audience already holds — a rate, duration, comparison, or familiar equivalent. Supply it, then check what it asserts: a comparison is a claim about relevance, and a poor comparator misleads more efficiently than the bare number. Interpretability is a separate requirement from fidelity: supplying a frame never licenses dropping the qualifiers the number travels with.
 
 Let facts carry their own weight. Avoid decorative metaphor, cinematic filler, staged reveals, significance announcements, and language that performs importance. Relevant texture, humor, and emotion may stay when removing them would weaken the requested effect.
 
@@ -145,7 +145,7 @@ These bind at every stage and override every craft preference.
 - **Chronology does not prove causation.** Sequence carries an implicit *therefore*. Order facts so the audience cannot reasonably infer a stronger relationship than the evidence supports.
 - Match completion and remediation claims to the exact established scope. Controls, partial progress, uncertainty, and open decisions are not closure.
 - An anecdote may exemplify a pattern. It may never silently stand in for representative evidence.
-- **Check that the evidence presented measures the claim being made.** A figure that is accurate, correctly qualified, and about a different quantity than the claim leaves every individual element able to survive fact-checking while the conclusion stays unsupported. When the artifact asserts something the available numbers do not measure, say what they do measure and that the claim is unmeasured.
+- **Check that the evidence presented measures the claim being made.** A figure that is accurate, correctly qualified, and about a different quantity than the claim is the hardest kind of defect to catch, because every individual element survives fact-checking while the conclusion stays unsupported. When the artifact asserts something the available numbers do not measure, say what they do measure and that the claim is unmeasured.
 - Pair every quantity with the context needed to interpret it — denominator, unit, population, time and spatial scope, range type, and every limitation that changes its meaning — and treat them as one indivisible unit. If the whole unit will not fit, reallocate space or choose different support.
 - Keep emotional intensity proportional to what the source supports. Do not manufacture urgency, villains, triumph, scarcity, or a heroic founder.
 - Do not complete an underspecified real system from plausibility. Preserve the behavior the source establishes; leave interface, mechanism, ownership, and routes unknown or visibly proposed.
@@ -161,9 +161,9 @@ The situations where the default move is confidently wrong.
 
 **Two audiences, opposed interests, one artifact.** Never write to the average — it serves neither. Either split the artifact, or make the divergence explicit and give each audience a legible path. If a single artifact genuinely cannot serve both, say so.
 
-**The outcome is bad, or the material is painful.** Proportion is the entire job. Do not manufacture uplift, do not dwell, do not aestheticize harm. Give the audience what they need to understand and act, at the emotional weight the situation actually carries. Do not supply a resolution the world has not reached.
+**The outcome is bad, or the material is painful.** Proportion is the entire job. Do not manufacture uplift, do not dwell, do not aestheticize harm. Give the audience what they need to understand and act, at the emotional weight the situation actually carries. Do not supply a resolution the world has not reached, however much kinder it would read.
 
-**The evidence is thin.** State what is known, what is not, and what would settle it. Confident structure over thin evidence makes the structure do the asserting the evidence cannot.
+**The evidence is thin.** State what is known, what is not, and what would settle it. Confident structure over thin evidence is the most damaging failure available in this branch, because the structure does the asserting the evidence cannot and the audience reads the structure.
 
 **The surface has no convention.** A voice interface, a physical sign, an embedded empty state, a wearable, something new. Do not import a template. Derive from the access mode: what can this audience perceive, in what order, with what control, under what attention and time budget, and what happens when they miss it.
 
