@@ -7,6 +7,8 @@ description: Architect truthful, audience-native stories and meaning structures 
 
 Build the most faithful model the audience can use, then give it the form, sequence, evidence visibility, and experiential force that this audience and surface require. Use narrative only when it improves that result.
 
+The contribution is the synthesis, not the material. Facts are cheap to obtain and an accurate inventory of everything known is not a communication; it hands the author's sorting problem to the audience. What the artifact owes them is what the raw material cannot supply on its own: context, relation, proportion, and consequence.
+
 The audience should notice the idea, not the storytelling machinery.
 
 ## Own the meaning architecture
@@ -81,7 +83,7 @@ Read [architectures and surfaces](references/architectures-and-surfaces.md) when
 
 Reject narrative when a direct answer, schema, table, map, runbook, comparison, decision record, or technical reference produces a more accurate, usable result.
 
-Do not default to a hook, protagonist, conflict, three acts, a hero's journey, surprise, climax, or call to action. These are available moves, not universal requirements. Use contrast, curiosity, suspense, emotion, and metaphor only when they arise from the material and advance the audience's job.
+Do not default to a hook, protagonist, conflict, three acts, a hero's journey, surprise, climax, or call to action. These are available moves, not universal requirements. Use contrast, curiosity, suspense, emotion, and metaphor only when they arise from the material and advance the audience's job. Each works through a specific mechanism and fails in a specific way; [architectures and surfaces](references/architectures-and-surfaces.md) records both, so that a move is chosen for its effect rather than reached for by habit.
 
 ## Find the governing change and throughline
 
@@ -89,9 +91,11 @@ State the smallest faithful change the artifact must make in the audience. It ma
 
 Then identify the load-bearing support and relationships. Prefer causal or dependency structure over a mere chronology when the sources establish it. For multicausal or contested material, preserve the network rather than inventing a neat chain.
 
-Before committing, compare materially different architectures when the first plausible structure may be formulaic. Choose by audience outcome, truth, surface fit, and evidence visibility, not by drama or cleverness.
+Before committing, generate several materially different architectures rather than variations on the first. The first structure that fits is usually the most conventional one available, because convention is what arrives first; the stronger candidate tends to appear only once the obvious ones are on the table and rejected. Build the candidates cheaply, in outline — a structure that cannot be sketched quickly is usually one whose load-bearing relationship is still unclear, and sketching it is how that becomes visible. Then choose by audience outcome, truth, surface fit, and evidence visibility, not by drama, cleverness, or which candidate is easiest to produce.
 
 ## Build the sequence or information architecture
+
+Decide the architecture before opening the tool that will render it. Every authoring surface carries a default structure — the title-and-bullets slide, the document outline, the database template, the form field, the section header — and that default becomes the structure of the meaning unless a decided architecture is already in place to override it. The tool holds the artifact; it does not do the thinking, and its convenience is not evidence about the material.
 
 For sequential artifacts, treat each beat as a unit with a clear audience-facing function, not as a fixed slide, sentence, scene, or section. For non-linear or repeated-use surfaces, design functional units, entry paths, relationships, and routes; do not force every unit into one order.
 
@@ -103,6 +107,8 @@ For each unit, know:
 - which source supports it;
 - which channel should carry it.
 
+State that job in one line. A unit needing a paragraph to justify itself is usually several units, or one whose function has not yet been decided.
+
 In sequential forms, order beats by comprehension and consequence. Give the audience a useful frame before details that depend on it. Make real causes, dependencies, contrasts, and transitions visible. Vary pace according to processing need: spend time where the model changes, evidence must be judged, emotion must land, or a decision turns.
 
 In non-linear forms, optimize entry, navigation, relationships, current-state visibility, and return use. A unit earns its place through a necessary function, not through forced progression. Use headings and cues to reveal structure, not to restate it.
@@ -111,17 +117,25 @@ In non-linear forms, optimize entry, navigation, relationships, current-state vi
 
 Use words for precision, reasoning, voice, and relations that need naming. Use visuals for structure, comparison, scale, movement, spatial relation, evidence, or grounded atmosphere that prose would make harder to perceive. Use sound and motion when their temporal effect matters. Use interaction when participation, exploration, navigation, manipulation, or progressive disclosure improves the audience's result.
 
+When the subject has no natural physical form — a service, a policy, a capability, a strategy, a commitment — there is nothing to simply show, and the reflex is to fill the gap with decoration. Build the perceptible form instead: the structure, the flow, the before and after, the decision, the boundary, the moment it becomes visible in someone's experience. An invisible subject needs a constructed form, not a stock image standing where one should be.
+
 Coordinate the channels. Avoid redundant repetition unless it provides accessibility, reinforcement, or recoverability. Provide every material identity, meaning, relationship, action, state, and instruction through each access mode the artifact must support; access in one channel does not substitute for access in another. Preserve the information or function, not necessarily the sensory form. Captions, transcripts, audio or text descriptions, labels, keyboard routes, and equivalent summaries are functional access, not clutter. Check that the audience can decode the visual grammar; add labels or verbal support when it is not self-evident.
 
-For live delivery, design the speaker and the surface together. For read-alone or maintained artifacts, make the record interpretable and retrievable without missing narration. For compact repeated-use surfaces, keep story in the orientation only when it helps; let the information architecture own everyday navigation and action.
+For live delivery, design the speaker and the surface together, and give the speaker a structure to hold rather than a script to recall. A delivery reconstructed from an understood structure survives interruption, question, and equipment failure; a recited one does not. For read-alone or maintained artifacts, make the record interpretable and retrievable without missing narration. For compact repeated-use surfaces, keep story in the orientation only when it helps; let the information architecture own everyday navigation and action.
 
 ## Compose for immediate understanding
 
 Use concrete actors, actions, examples, and quantities when they carry meaning. Preserve technical language and abstraction when they are the accurate form of the idea. Explain unfamiliar terms at the point of need.
 
+A quantity means something to the audience only against a reference frame they already hold. Supply the comparison, rate, duration, or familiar equivalent that makes the number interpretable, and then check what that frame asserts: a comparison is a claim about relevance, and a poorly chosen comparator misleads more efficiently than the bare number would. Interpretability is a separate requirement from fidelity, and it does not license dropping the qualifiers the number travels with.
+
+A conversational register earns attention because it recruits the audience as a participant rather than a recipient; sustained formality without any of it is genuinely harder to stay with. It fails the moment it becomes a costume worn over material the author does not actually hold, at which point it reads as performance and costs more credibility than a plainly formal register would have. The register has to be affordable given what is really known.
+
 Let facts carry their own weight. Avoid story skin: decorative metaphors, cinematic filler, staged reveals, significance announcements, epigrams, and language that performs importance. Relevant texture, humor, atmosphere, and emotion may remain when removing them would weaken the requested effect.
 
-Select; do not compress. Cut a unit only when it does not improve correct understanding, judgment, memory, action, retrieval, or the requested experience. Do not expose the discarded structures, editorial doctrine, or production process in the finished artifact unless the user requested an audit.
+Select; do not compress. Cut a unit only when it does not improve correct understanding, judgment, memory, action, retrieval, or the requested experience.
+
+When a unit survives, check why it survived. Material is most often kept because removing it feels risky to the author, or because it was expensive to produce, and neither is a benefit the audience receives. Completeness offered as self-protection reaches the audience as an undifferentiated pile, which protects no one. Do not expose the discarded structures, editorial doctrine, or production process in the finished artifact unless the user requested an audit.
 
 ## Run the audience-side audit
 

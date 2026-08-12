@@ -2,7 +2,9 @@
 
 Use this reference to inspect the evidence behind the Skill, resolve a contested principle, or revise the Skill. It is not a checklist to repeat in normal use.
 
-The ledger below is the Skill's evidence base. Each entry states what the study found, what the Skill does with it, and links the source.
+The ledger below is the Skill's empirical base. Each entry states what the study found, what the Skill does with it, and links the source.
+
+It is not the whole of the Skill. Much of the craft guidance elsewhere — when to reach for a move, how to run an audit, how to sequence a working process — is practitioner heuristic, accountable to use rather than to experiment. That material is not represented here and should not be treated as though it were. Where a heuristic and a finding conflict, the finding governs and the heuristic is the thing that changes.
 
 ## Research ledger
 

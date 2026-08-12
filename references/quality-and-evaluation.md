@@ -47,7 +47,7 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - **Dossier dump:** expose the research substrate instead of selecting what the audience needs.
 - **Medium blindness:** make slides read like a document, a workspace read like an essay, or a durable record depend on live narration.
 - **Founder-hero bias:** center the author when the customer, audience, system, evidence, or problem should carry the story.
-- **Premature convergence:** polish the first plausible structure without testing a materially different one.
+- **Premature convergence:** polish the first plausible structure without testing a materially different one. The first fit is usually the conventional one, because convention arrives first.
 
 ### Craft failures
 
@@ -56,6 +56,10 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - **Signal saturation:** emphasize everything and therefore reveal no hierarchy.
 - **Channel duplication:** make words and visuals repeat rather than divide the work.
 - **Process leakage:** explain the selected arc, discarded options, research activity, or editing doctrine inside the final artifact.
+- **Cliché figure:** reach for the first available metaphor or stock image, which the audience has seen often enough to stop seeing.
+- **Defensive inclusion:** keep material because omitting it feels risky to the author, not because the audience needs it. The tell is that no one can say what job the unit does.
+- **Sunk-cost inclusion:** keep material because it was expensive, difficult, or satisfying to produce.
+- **Tool-default capture:** let the authoring surface's default structure — the bullet slide, the outline, the template, the field set — decide the architecture, so the artifact takes the shape of the software rather than the material.
 
 ## 3. Artifact audit
 
@@ -73,11 +77,13 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - State the audience's actual starting model and intended end state.
 - Check each unit against the audience transition or a necessary route through a non-linear surface.
 - Ask what the audience is likely to remember later. Compare it with what matters most.
+- For every visible quantity, check that a reference frame is present and that the frame smuggles in no claim the evidence does not support.
 - Verify that a newcomer gets enough frame and an expert is not forced through redundant exposition.
 
 ### Structure
 
-- In sequential forms, reduce each beat to its job. Merge or cut beats with the same job unless repetition has a deliberate function. Remove or reorder a beat; if the result does not weaken, the original sequence was not earned.
+- In sequential forms, reduce each beat to its job, stated in one line. A unit that needs a paragraph of justification is several units or one whose function is undecided. Merge or cut beats with the same job unless repetition has a deliberate function.
+- For each unit that survived cutting, name why it survived. Reject author comfort, production cost, and completeness-as-insurance as reasons. Remove or reorder a beat; if the result does not weaken, the original sequence was not earned.
 - In non-linear forms, test whether each unit, relationship, and entry path improves orientation, navigation, action, or retrieval. Remove those that do not.
 - Compare the chosen architecture with the strongest direct, non-narrative alternative.
 - Check that real dependencies and causal relations drive the order.

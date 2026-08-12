@@ -7,7 +7,8 @@ Use this reference to select and adapt meaning architecture. Treat every pattern
 1. Architecture families
 2. Surface adaptations
 3. Hybrid design
-4. No-story branch
+4. Moves and their conditions
+5. No-story branch
 
 ## 1. Architecture families
 
@@ -170,7 +171,51 @@ Examples:
 
 Make each mode change legible. Do not blend anecdote, evidence, and inference until their roles become indistinguishable.
 
-## 4. No-story branch
+## 4. Moves and their conditions
+
+Contrast, curiosity, concretization, figure, and emotion are the moves most often reached for by habit. Each does real work through a specific mechanism, and each has a characteristic way of failing. Use one because its mechanism is the one the audience needs, and stop when the material stops supplying it.
+
+### Contrast
+
+**Mechanism.** Perception is comparative. A difference becomes legible only against something it differs from, and a quantity, a state, or a change that is presented alone gives the audience nothing to measure it by.
+
+**Use it** where a real difference is load-bearing: before and after, current and proposed, this population and that one, what was expected and what occurred, what the system does and what it does not. Contrast also lives between things on the same side, which is often where the more informative difference sits — two options that share a goal and diverge on method usually teach more than a hero and a villain.
+
+**It fails** when the opposition is manufactured, when the two sides are not actually comparable, or when a real difference of degree is presented as a difference of kind. Sharpening a contrast past what the evidence supports is a factual defect, not a stylistic one.
+
+### Curiosity gap
+
+**Mechanism.** Interest can be produced by making the audience aware of a gap in what they know. Surprise opens attention; an unanswered question sustains it, because an open question is uncomfortable in a way a mere fact is not.
+
+**Use it** when a real gap exists and the artifact genuinely closes it: pose the question the material actually answers, let the audience feel it, then answer it. The move earns its place by improving the eventual understanding, not by delaying it.
+
+**It fails** as withholding. If the gap is manufactured, if the answer is trivial once revealed, or if the delay serves the artifact's drama rather than the audience's comprehension, the audience pays attention twice and is repaid once. In reference and operating surfaces the move is nearly always wrong: someone who needs an answer now should not have to earn it.
+
+### Concretization
+
+**Mechanism.** Concrete things are easier to hold, picture, and recall than abstractions, and an abstraction the audience cannot instantiate is one they cannot check.
+
+**Use it** to give an abstract claim at least one instance the audience can inspect, and to give every material quantity a reference frame they already possess — a rate, a duration, a comparison, a familiar equivalent.
+
+**It fails** in two directions. Concretizing away real abstraction destroys meaning: when the general form *is* the idea, an instance is not a substitute for it. And a reference frame is itself a claim — the wrong comparator misleads more efficiently than the raw number would, because it feels like help.
+
+### Figure: metaphor and analogy
+
+**Mechanism.** A figure transfers structure from something the audience knows to something they do not, which is why a good one teaches quickly.
+
+**Use it** when the structural mapping is genuinely accurate, and name the point where it breaks. A figure that is not load-bearing is decoration wearing the costume of explanation.
+
+**It fails** as cliché. The first figure that comes to mind is usually one the audience has seen enough times to stop seeing — the handshake, the mountain, the journey, the iceberg, the lightbulb. A stock figure signals that the thinking stopped at the first available option, and audiences read that signal accurately.
+
+### Emotion
+
+**Mechanism.** Emotional material is attended to and recalled more readily than neutral material. That is exactly why it is dangerous: salience and importance are different properties, and the move raises only one of them.
+
+**Use it** where the material genuinely carries human stakes and where feeling those stakes is part of understanding the situation correctly.
+
+**It fails** when emotional weight and evidentiary weight come apart. A vivid minor case will outcompete the central finding in memory, and the audience will leave with a distorted model built from true parts. Whenever emotional intensity exceeds a unit's actual importance, the fix is to reduce the intensity or raise the support, not to accept the imbalance because it is engaging.
+
+## 5. No-story branch
 
 Prefer a direct or non-narrative structure when the primary job is:
 

@@ -1,8 +1,19 @@
-Required Notice: Copyright Yihan Zhao (https://github.com/yihanz/storytelling-skill)
+Copyright 2026 Yihan Zhao
 
-# PolyForm Small Business License 1.0.0
+Licensed under the PolyForm Internal Use License 1.0.0, reproduced in full
+below, together with the Additional Permissions that follow it.
 
-<https://polyformproject.org/licenses/small-business/1.0.0>
+In short: any individual may use and adapt this work, including in their own
+paid work and including as an employee of an organization of any size, and may
+pass a copy to another individual. Distribution by or on behalf of an
+organization — deploying it across an organization, bundling it into a product
+or service, or offering it for sale — requires written permission.
+
+---
+
+# PolyForm Internal Use License 1.0.0
+
+<https://polyformproject.org/licenses/internal-use/1.0.0>
 
 ## Acceptance
 
@@ -12,32 +23,13 @@ your licenses.
 
 ## Copyright License
 
-The licensor grants you a copyright license for the
-software to do everything you might do with the software
-that would otherwise infringe the licensor's copyright
-in it for any permitted purpose.  However, you may
-only distribute the software according to [Distribution
-License](#distribution-license) and make changes or new works
-based on the software according to [Changes and New Works
-License](#changes-and-new-works-license).
-
-## Distribution License
-
-The licensor grants you an additional copyright license
-to distribute copies of the software.  Your license
-to distribute covers distributing the software with
-changes and new works permitted by [Changes and New Works
-License](#changes-and-new-works-license).
-
-## Notices
-
-You must ensure that anyone who gets a copy of any part of
-the software from you also gets a copy of these terms or the
-URL for them above, as well as copies of any plain-text lines
-beginning with `Required Notice:` that the licensor provided
-with the software.  For example:
-
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+The licensor grants you a copyright license for the software
+to do everything you might do with the software that would
+otherwise infringe the licensor's copyright in it for any
+permitted purpose.  However, you may only make changes or
+new works based on the software according to [Changes and New
+Works License](#changes-and-new-works-license), and you may
+not distribute the software.
 
 ## Changes and New Works License
 
@@ -56,16 +48,10 @@ to license, that you would infringe by using the software.
 You may have "fair use" rights for the software under the
 law. These terms do not limit them.
 
-## Small Business
+## Internal Business Use
 
-Use of the software for the benefit of your company is use for
-a permitted purpose if your company has fewer than 100 total
-individuals working as employees and independent contractors,
-and less than 1,000,000 USD (2019) total revenue in the prior
-tax year.  Adjust this revenue threshold for inflation according
-to the United States Bureau of Labor Statistics' consumer price
-index for all urban consumers, U.S. city average, for all items,
-not seasonally adjusted, with 1982–1984=100 reference base.
+Use of the software for the internal business operations of
+you and your company is use for a permitted purpose.
 
 ## No Other Rights
 
@@ -124,25 +110,26 @@ of your licenses.
 
 ---
 
-# Additional Permission from the Licensor
+# Additional Permissions
 
-The section below is granted by the licensor and is not part of the
-PolyForm Small Business License 1.0.0 text above. It only widens what
-counts as a permitted purpose. It takes nothing away.
+Granted by the licensor. Not part of the PolyForm Internal Use License 1.0.0
+text above. These only widen what is permitted; they withdraw nothing.
 
-## Individual Use
+## Personal Use
 
-Use of the software by an individual is use for a permitted purpose,
-whether or not that use is commercial and whether or not the individual
-has a company. This covers personal use, study, and an individual's own
-professional work, including work performed for or delivered to a client
-of any size.
+Use of the software by an individual for that individual's own purposes is use
+for a permitted purpose, whether or not those purposes are commercial and
+whether or not the individual has a company. This covers personal use, study,
+and an individual's own professional work, including work performed for or
+delivered to a client of any size.
 
-This permission covers the individual's own use of the software. It does
-not permit deploying the software across an organization that does not
-qualify under the Small Business section above, and it does not permit
-selling the software itself, or a product whose substantial value is the
-software itself, to anyone.
+## Sharing Between Individuals
 
-For any use outside these grants, contact the licensor for a commercial
-licence.
+An individual may give a copy of the software to another individual, provided a
+copy of these terms goes with it.
+
+This permission does not extend to distribution by an organization or by anyone
+acting on an organization's behalf. Deploying the software to an organization's
+members, including copying it into shared or managed systems, bundling it into
+a product or service, and offering it for sale or other consideration all
+remain outside these terms and require the licensor's written permission.

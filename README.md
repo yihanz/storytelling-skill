@@ -46,19 +46,19 @@ Where the evidence is thin, the Skill says so. "Unsupported universal rules" at 
 
 ## Licensing
 
-Released under the **[PolyForm Small Business License 1.0.0](LICENSE)**, plus an Individual Use permission granted at the bottom of that file. In plain language:
+Released under the **[PolyForm Internal Use License 1.0.0](LICENSE)** with two Additional Permissions granted at the bottom of that file. The line it draws is between an individual and an organization, not between a small company and a large one.
 
 | You want to | Allowed |
 |---|---|
-| Use it yourself, including in your own paid client or freelance work | **Yes** — Individual Use |
-| Use it inside a company with fewer than 100 people and under $1M revenue | **Yes** — Small Business |
-| Modify it, adapt it, build your own Skill on top of it | **Yes**, for any permitted purpose |
-| Share your modified version, carrying these same terms forward | **Yes** |
-| Roll it out across a company that does not meet the Small Business threshold | **No** — needs a separate licence |
-| Sell it, or sell a product whose substantial value is this work | **No** — needs a separate licence |
+| Use it yourself, including in your own paid client or freelance work | **Yes** |
+| Use it as an employee, at an organization of any size | **Yes** |
+| Modify it, adapt it, build your own Skill on top of it | **Yes** |
+| Pass a copy to another individual, with the terms attached | **Yes** |
+| Deploy it across an organization, or copy it into shared or managed systems | **No** — needs written permission |
+| Bundle it into a product or service, or sell it | **No** — needs written permission |
 
-Two things worth being precise about. First, the base license defines a permitted purpose through *your company*, which it defines as any organization you work for — so the Individual Use permission is what makes freelance and client work unambiguously fine. Second, the license grants no right to sublicense or relicense, so these terms travel with every copy and each recipient must independently qualify.
+No Creative Commons licence can express this, which is worth stating plainly since it is the obvious thing to reach for: all six CC licences grant the right to redistribute, to anyone, including organizations. The right being withheld here is exactly that one.
 
-**Beyond those grants** — enterprise or organization-wide deployment, or redistribution as part of a commercial offering — open an issue in this repository to arrange a commercial licence.
+Open an issue in this repository to arrange permission for anything in the bottom two rows.
 
 Neither this summary nor the repository is legal advice. Where the summary and [LICENSE](LICENSE) differ, LICENSE governs.
