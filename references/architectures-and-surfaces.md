@@ -173,47 +173,47 @@ Make each mode change legible. Do not blend anecdote, evidence, and inference un
 
 ## 4. Moves and their conditions
 
-Contrast, curiosity, concretization, figure, and emotion are the moves most often reached for by habit. Each does real work through a specific mechanism, and each has a characteristic way of failing. Use one because its mechanism is the one the audience needs, and stop when the material stops supplying it.
+Five moves recur across architectures: contrast, curiosity, concretization, figure, and emotion. Each has an effect, a condition under which it is the right instrument, and a characteristic failure. Where the effect is supported by an entry in the [research foundation](research-foundation.md), that is marked. Where it is craft inference, that is marked too.
 
 ### Contrast
 
-**Mechanism.** Perception is comparative. A difference becomes legible only against something it differs from, and a quantity, a state, or a change that is presented alone gives the audience nothing to measure it by.
+**Effect.** A difference is legible only against something it differs from. A quantity, state, or change presented alone gives the audience no scale to read it against. *Craft inference; the ledger covers signalling, not contrast specifically.*
 
-**Use it** where a real difference is load-bearing: before and after, current and proposed, this population and that one, what was expected and what occurred, what the system does and what it does not. Contrast also lives between things on the same side, which is often where the more informative difference sits — two options that share a goal and diverge on method usually teach more than a hero and a villain.
+**Use when** a real difference is load-bearing: before and after, current and proposed, one population and another, expectation and outcome, what the system does and what it does not. Contrast also holds between two options that share a goal and diverge on method.
 
-**It fails** when the opposition is manufactured, when the two sides are not actually comparable, or when a real difference of degree is presented as a difference of kind. Sharpening a contrast past what the evidence supports is a factual defect, not a stylistic one.
+**Fails when** the opposition is manufactured, the two sides are not comparable, or a difference of degree is presented as a difference of kind. Sharpening a contrast past the evidence is a factual defect.
 
-### Curiosity gap
+### Curiosity
 
-**Mechanism.** Interest can be produced by making the audience aware of a gap in what they know. Surprise opens attention; an unanswered question sustains it, because an open question is uncomfortable in a way a mere fact is not.
+**Effect.** Naming a gap in what the audience knows raises attention, and an open question holds it longer than a stated fact. *Craft inference; not covered by the ledger.*
 
-**Use it** when a real gap exists and the artifact genuinely closes it: pose the question the material actually answers, let the audience feel it, then answer it. The move earns its place by improving the eventual understanding, not by delaying it.
+**Use when** a real gap exists and the artifact closes it. Pose the question the material answers, then answer it.
 
-**It fails** as withholding. If the gap is manufactured, if the answer is trivial once revealed, or if the delay serves the artifact's drama rather than the audience's comprehension, the audience pays attention twice and is repaid once. In reference and operating surfaces the move is nearly always wrong: someone who needs an answer now should not have to earn it.
+**Fails when** the gap is manufactured, the answer is trivial once given, or the delay serves the artifact rather than comprehension. Do not use it in reference or operating surfaces, where the audience needs the answer on arrival.
 
 ### Concretization
 
-**Mechanism.** Concrete things are easier to hold, picture, and recall than abstractions, and an abstraction the audience cannot instantiate is one they cannot check.
+**Effect.** Concrete material was generally more comprehensible, interesting, and memorable than abstract material across several genres, with the size of the effect varying by genre ([Sadoski, Goetz, and Rodriguez, 2000](research-foundation.md)). An abstraction the audience cannot instantiate is one they cannot check.
 
-**Use it** to give an abstract claim at least one instance the audience can inspect, and to give every material quantity a reference frame they already possess — a rate, a duration, a comparison, a familiar equivalent.
+**Use when** an abstract claim needs an instance the audience can inspect, or a quantity needs a reference frame they already hold — a rate, duration, comparison, or familiar equivalent.
 
-**It fails** in two directions. Concretizing away real abstraction destroys meaning: when the general form *is* the idea, an instance is not a substitute for it. And a reference frame is itself a claim — the wrong comparator misleads more efficiently than the raw number would, because it feels like help.
+**Fails** in two directions. Concretizing away real abstraction destroys meaning: when the general form is the idea, an instance does not substitute for it. And a reference frame is itself a claim. The wrong comparator misleads more than the raw number.
 
 ### Figure: metaphor and analogy
 
-**Mechanism.** A figure transfers structure from something the audience knows to something they do not, which is why a good one teaches quickly.
+**Effect.** A figure transfers structure from something the audience knows to something they do not. *Craft inference; the ledger covers visual and verbal signalling, not figurative mapping.*
 
-**Use it** when the structural mapping is genuinely accurate, and name the point where it breaks. A figure that is not load-bearing is decoration wearing the costume of explanation.
+**Use when** the structural mapping is accurate. Name the point where it breaks.
 
-**It fails** as cliché. The first figure that comes to mind is usually one the audience has seen enough times to stop seeing — the handshake, the mountain, the journey, the iceberg, the lightbulb. A stock figure signals that the thinking stopped at the first available option, and audiences read that signal accurately.
+**Fails** as cliché. A stock figure — the handshake, the mountain, the journey, the iceberg, the lightbulb — carries no structure the audience has not already discounted. A figure that is not load-bearing is decoration.
 
 ### Emotion
 
-**Mechanism.** Emotional material is attended to and recalled more readily than neutral material. That is exactly why it is dangerous: salience and importance are different properties, and the move raises only one of them.
+**Effect.** Emotional material draws attention. Salience and importance are separate properties, and this move raises only the first. In the tested case, interesting but irrelevant detail reduced main-idea recall and transfer ([Harp and Mayer, 1998](research-foundation.md)); whether a relevant but minor case displaces a central one is not established by the ledger.
 
-**Use it** where the material genuinely carries human stakes and where feeling those stakes is part of understanding the situation correctly.
+**Use when** the material carries human stakes and feeling them is part of understanding the situation correctly.
 
-**It fails** when emotional weight and evidentiary weight come apart. A vivid minor case will outcompete the central finding in memory, and the audience will leave with a distorted model built from true parts. Whenever emotional intensity exceeds a unit's actual importance, the fix is to reduce the intensity or raise the support, not to accept the imbalance because it is engaging.
+**Fails when** emotional weight and evidentiary weight come apart, leaving the audience a distorted model built from true parts. Where intensity exceeds a unit's importance, reduce the intensity or raise the support.
 
 ## 5. No-story branch
 

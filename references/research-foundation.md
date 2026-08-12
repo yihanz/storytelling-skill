@@ -4,7 +4,7 @@ Use this reference to inspect the evidence behind the Skill, resolve a contested
 
 The ledger below is the Skill's empirical base. Each entry states what the study found, what the Skill does with it, and links the source.
 
-It is not the whole of the Skill. Much of the craft guidance elsewhere — when to reach for a move, how to run an audit, how to sequence a working process — is practitioner heuristic, accountable to use rather than to experiment. That material is not represented here and should not be treated as though it were. Where a heuristic and a finding conflict, the finding governs and the heuristic is the thing that changes.
+Guidance elsewhere in the Skill that is not listed below is practitioner heuristic, not an experimental finding. Where the two conflict, the finding governs.
 
 ## Research ledger
 
@@ -45,6 +45,12 @@ It is not the whole of the Skill. Much of the craft guidance elsewhere — when 
 
 ## Unsupported universal rules
 
-Nothing in the corpus above establishes any of these as a universal requirement: hooks, protagonists, conflict, climax, three acts, a hero's journey, surprise, anecdotes, emotion, visuals, one idea per slide, fixed length, readability levels, or "show, do not tell." Several were never tested by it at all, so treat their absence here as unexamined rather than refuted. What the corpus does contradict is treating memorability, engagement, persuasion, comprehension, truth, and decision quality as interchangeable.
+The corpus above bears on some conventions and is silent on others. Read the two groups differently.
 
-The durable principle is narrower and stronger: construct the most faithful audience-usable model, then choose the architecture and channels that improve the required audience transition without weakening truth.
+**Tested, and not supported as universal requirements:** hooks, conflict, surprise, anecdotes, emotion, and visuals. Entries in the ledger bear directly on each: signalling and visual benefit vary with prior knowledge and with whether the element carries the model; narrative and statistical evidence show no consistent overall winner; irrelevant detail reduces recall.
+
+**Not examined by this corpus at all:** protagonists, climax, three acts, the hero's journey, one idea per slide, fixed length, readability levels, and "show, do not tell." Their absence here is unexamined, not refuted. Do not cite this ledger against them.
+
+The corpus does contradict one thing directly: treating memorability, engagement, persuasion, comprehension, truth, and decision quality as interchangeable.
+
+The principle the corpus supports is this: construct the most faithful audience-usable model, then choose the architecture and channels that improve the required audience transition without weakening truth.

@@ -37,7 +37,7 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - **Manufactured stakes:** invent urgency, scarcity, fear, villainy, or triumph.
 - **Authenticity theater:** fabricate personal detail, motive, dialogue, or a conversational voice.
 - **Persuasion overreach:** hide counterevidence, risk, uncertainty, or alternatives to protect momentum.
-- **Evidence/claim mismatch:** support a claim with figures that are accurate and correctly qualified but measure a different quantity. Every element survives fact-checking and the conclusion is still unsupported, which makes this the hardest truth failure to catch and the most durable once shipped.
+- **Evidence/claim mismatch:** support a claim with figures that are accurate and correctly qualified but measure a different quantity. Every element survives fact-checking and the conclusion is still unsupported.
 
 ### Architecture failures
 
@@ -48,7 +48,7 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - **Dossier dump:** expose the research substrate instead of selecting what the audience needs.
 - **Medium blindness:** make slides read like a document, a workspace read like an essay, or a durable record depend on live narration.
 - **Founder-hero bias:** center the author when the customer, audience, system, evidence, or problem should carry the story.
-- **Premature convergence:** polish the first plausible structure without testing a materially different one. The first fit is usually the conventional one, because convention arrives first.
+- **Premature convergence:** polish the first plausible structure without testing a materially different one.
 
 ### Craft failures
 
@@ -57,10 +57,10 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - **Signal saturation:** emphasize everything and therefore reveal no hierarchy.
 - **Channel duplication:** make words and visuals repeat rather than divide the work.
 - **Process leakage:** explain the selected arc, discarded options, research activity, or editing doctrine inside the final artifact.
-- **Cliché figure:** reach for the first available metaphor or stock image, which the audience has seen often enough to stop seeing.
-- **Defensive inclusion:** keep material because omitting it feels risky to the author, not because the audience needs it. The tell is that no one can say what job the unit does.
+- **Cliché figure:** reach for the first available metaphor or stock image, that carries no structure the audience has not discounted.
+- **Defensive inclusion:** keep material because omitting it feels risky to the author, not because the audience needs it. No one can state the unit's job.
 - **Sunk-cost inclusion:** keep material because it was expensive, difficult, or satisfying to produce.
-- **Tool-default capture:** let the authoring surface's default structure — the bullet slide, the outline, the template, the field set — decide the architecture, so the artifact takes the shape of the software rather than the material.
+- **Tool-default capture:** let the authoring surface's default structure — the bullet slide, the outline, the template, the field set — decide the architecture,.
 
 ## 3. Artifact audit
 
