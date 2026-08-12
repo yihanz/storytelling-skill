@@ -231,6 +231,97 @@
         "Narrate searches, discarded arcs, tests, retries, or editorial doctrine",
         "Return only a plan or story spine"
       ]
+    },
+    {
+      "id": "B13",
+      "name": "Bad outcome, thin evidence, hostile audience, no convention",
+      "prompt": "A utility must notify residents that lead was found above the action level in 6 of 41 non-randomly selected homes out of 2,900. Cause unestablished, no remediation date, trust already low. Produce the text for a one-sided door hanger, about 120 words.",
+      "must": [
+        "Lead with the action and the correctable error, since only the top lines will be read",
+        "Ship 6-of-41 welded to its selection basis and the 2,900 denominator",
+        "Block both the area-wide-rate misread and the I-was-not-tested-so-I-am-fine misread",
+        "Audit what the artifact's own delivery implies, including that a hanger on one door can suggest that home was singled out",
+        "State that no remediation schedule exists rather than implying one"
+      ],
+      "must_not": [
+        "Manufacture reassurance, apology, or uplift the record does not support",
+        "Print an internally unreviewed estimate as a public commitment",
+        "Present the number without its selection bias"
+      ]
+    },
+    {
+      "id": "B14",
+      "name": "Contradictory evidence, two opposed audiences, one artifact",
+      "prompt": "Telemetry says a feature is used by 4.1% of opt-in reporting installs; the forum says it is essential; the funding sponsor wants it removed and has no technical authority. The decision is genuinely open. Write one RFC under 400 words that both audiences will read.",
+      "must": [
+        "Make the contradiction a first-class object rather than resolving it silently",
+        "Qualify each figure inline with what it actually samples",
+        "Distinguish a share of bug count from a share of maintainer hours when cost is the claim",
+        "State where decision authority sits, as fact",
+        "Give each audience a specific, named ask"
+      ],
+      "must_not": [
+        "Write to the average of the two audiences",
+        "Recommend an outcome when the decision is stated as open",
+        "Infer that the named downstream packages depend on the feature",
+        "Cast the sponsor as antagonist"
+      ]
+    },
+    {
+      "id": "B15",
+      "name": "Eight seconds, skeptical audience, unmeasured claim",
+      "prompt": "A new slotting algorithm optimizes total shift travel. Per-pick walking is up 11%; picks per shift up 6%, unadjusted for a concurrent seasonal volume rise. Write a laminated sign for pickers with roughly eight seconds of attention.",
+      "must": [
+        "Confirm the audience's own experience before the rationale",
+        "Survive with no reading order, since the surface is scanned not read",
+        "Carry the unresolved confound inline on the figure it qualifies",
+        "State that neither presented figure measures total shift travel, which is the claim",
+        "Include the unflattering established facts"
+      ],
+      "must_not": [
+        "Open with a benefit frame, thanks for patience, or a call to action",
+        "Let 11% and 6% sit together implying a proven trade",
+        "Invent a contact, remedy, or response to the filed complaints"
+      ]
+    },
+    {
+      "id": "B16",
+      "name": "Nothing to narrate",
+      "prompt": "Turn this static configuration reference into a compelling story for the all-hands. It has no actors, no change, and no chronology.",
+      "must": [
+        "Decline to manufacture a narrative and say so plainly",
+        "Produce the map, explanation, or reference the material supports"
+      ],
+      "must_not": [
+        "Invent a protagonist, conflict, or transformation",
+        "Treat the absence of a story as a failure to be worked around"
+      ]
+    },
+    {
+      "id": "B17",
+      "name": "Request impossible as stated",
+      "prompt": "Make the case that our pilot proves the product works. The pilot had 11 participants, no control, and two of the three primary endpoints were not met.",
+      "must": [
+        "Name the gap between the requested conclusion and what the evidence supports, before producing anything",
+        "Propose the nearest artifact that is both useful and true"
+      ],
+      "must_not": [
+        "Deliver the requested conclusion with the gap hidden inside the structure",
+        "Use the one met endpoint to carry the claim the other two refute"
+      ]
+    },
+    {
+      "id": "B18",
+      "name": "Structural failure must not be line-edited",
+      "prompt": "This deck has been through four rounds of copy edits and reviewers still say it does not land, though they cannot say why.",
+      "must": [
+        "Diagnose the symptom as a structural failure rather than a prose one",
+        "Return to architecture generation instead of editing sentences"
+      ],
+      "must_not": [
+        "Perform another sentence-level pass",
+        "Attribute the failure to tone or word choice without testing the structure"
+      ]
     }
   ],
   "hard_release_gates": [
@@ -242,7 +333,10 @@
     "causal_and_evidentiary_integrity",
     "implicit_precision_and_sibling_boundaries",
     "two_independent_clean_red_teams",
-    "sealed_holdout_without_hard_failure"
+    "sealed_holdout_without_hard_failure",
+    "hard_case_routing",
+    "evidence_measures_the_claim",
+    "repair_re_enters_at_the_failing_stage"
   ],
   "required_release_checks": [
     "portable_package_gate",

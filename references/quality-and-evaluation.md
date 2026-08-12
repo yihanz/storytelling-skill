@@ -37,6 +37,7 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 - **Manufactured stakes:** invent urgency, scarcity, fear, villainy, or triumph.
 - **Authenticity theater:** fabricate personal detail, motive, dialogue, or a conversational voice.
 - **Persuasion overreach:** hide counterevidence, risk, uncertainty, or alternatives to protect momentum.
+- **Evidence/claim mismatch:** support a claim with figures that are accurate and correctly qualified but measure a different quantity. Every element survives fact-checking and the conclusion is still unsupported, which makes this the hardest truth failure to catch and the most durable once shipped.
 
 ### Architecture failures
 
@@ -66,6 +67,7 @@ Agent praise, fluency, novelty, emotional intensity, lower word count, and a cle
 ### Source and truth
 
 - Trace every claim, quote, person, scene, quantity, chronology, and causal relation to a source or label it as inference or hypothetical.
+- For each load-bearing claim, name the figure that measures it. If no presented figure measures the claim, the claim is unmeasured and must be marked as such.
 - Audit what headings, controls, lists, maps, intervals, confidence language, visuals, interactions, and closing synthesis would cause the audience to infer. Treat an unsupported implication as a factual defect even when no sentence states it directly.
 - Check that emotional intensity and narrative prominence match evidentiary importance.
 - Preserve base rates, comparators, source scope, time scope, uncertainty, alternatives, and open questions that affect judgment.

@@ -1,158 +1,178 @@
 ---
 name: storytelling
-description: Architect truthful, audience-native stories and meaning structures across presentations, pitch decks, manifestos, onboarding, project briefings, business plans, landing pages, commercials, storyboards, and durable workspaces. Use when a body of material needs a throughline, sequence, beat architecture, audience transition, or adaptation across surfaces. Choose among narrative, explanation, argument, instruction, demonstration, reference, or hybrids. Do not use for ordinary sentence editing or when an exact schema or direct answer already determines the form.
+description: Architect truthful, audience-native meaning across presentations, pitch decks, manifestos, onboarding, briefings, business plans, landing pages, commercials, storyboards, explanations, and durable workspaces. Use when material needs a throughline, sequence, beat architecture, information architecture, audience transition, or adaptation across surfaces — including when the right answer turns out to be no story at all. Choose among narrative, explanation, argument, instruction, demonstration, reference, and hybrids. Do not use for ordinary sentence editing, or when an exact schema, approved script, or direct answer already determines the form.
 ---
 
 # Storytelling
 
-Build the most faithful model the audience can use, then give it the form, sequence, evidence visibility, and experiential force that this audience and surface require. Use narrative only when it improves that result.
+Build the most faithful model the audience can use, then give it the form, sequence, evidence visibility, and experiential force this audience and surface require. Narrative is one option among several and earns its place only by producing a better result.
 
-The contribution is the synthesis, not the material. Facts are cheap to obtain and an accurate inventory of everything known is not a communication; it hands the author's sorting problem to the audience. What the artifact owes them is what the raw material cannot supply on its own: context, relation, proportion, and consequence.
+The audience should notice the idea, not the machinery.
 
-The audience should notice the idea, not the storytelling machinery.
+## Own this, not that
 
-## Own the meaning architecture
+Own the audience model, truth model, governing change, throughline, architecture, sequence, unit functions, and the division of meaning across words, visuals, sound, interaction, and persistent fields.
 
-Own the audience model, governing change, throughline, structure, sequence, beat functions, and division of meaning across words, visuals, sound, interaction, and persistent fields.
+Do not take over source retrieval, fact checking, or domain judgment; medium mechanics owned by a presentation, document, workspace, video, or design Skill; exact schemas, legal or technical forms, live records, or deterministic workflow rules; or the requested voice and register. Pair with the medium Skill, hand it the content architecture, and let it own rendering.
 
-Do not replace:
+## The loop
 
-- source retrieval, fact checking, or domain judgment;
-- presentation, Notion, landing-page, video, document, or visual-design mechanics;
-- exact schemas, legal or technical forms, live records, or deterministic workflow rules;
-- the requested voice and register.
+Six stages. Intake sets the depth: a one-paragraph request gets one pass through all six in a few seconds of thought, a corpus for a board decision gets days. The stages are obligations, not ceremony — but a skipped stage is a defect you will meet later, and later is more expensive.
 
-Pair with the relevant medium or domain Skill when one applies. Give that Skill the content architecture and let it own rendering and execution.
+```text
+INTAKE → GROUND → DIVERGE → COMMIT → BUILD → ATTACK → ship
+                     ↑_________________________|
+                   repair re-enters at the stage that failed
+```
 
-## Start from the audience transition
+The loop's value is in the return path. When the artifact fails, the failure names the stage that produced it, and you re-enter there. Repairing a structural failure with sentence edits is the single most common way good material becomes a bad artifact.
 
-Recover the actual audience, purpose, genre, surface, moment, constraints, evidence, truth mode, and requested effect. Distinguish factual, fictional, illustrative, and hybrid work.
+### 1. Intake — decide whether this is even the job
 
-Define the audience's transition in concrete terms:
+Before anything else, establish:
+
+- **Is meaning architecture open?** If an exact schema, an approved script, a legal form, or a direct factual answer already determines the form, stop and do that instead. Refusing to architect is a correct outcome and should be stated plainly, not performed as a smaller version of the work.
+- **Truth mode.** Factual, illustrative, hypothetical, fictional, or hybrid. Everything downstream depends on this and it is rarely stated.
+- **Fixed constraints.** Voice, length, format, exact contracts, brand, legal, accessibility floor. These bind; they are not preferences to optimize against.
+- **Is the request possible?** If the audience is meant to reach a conclusion the material does not support, name that now. An artifact that papers over the gap is worse than the conversation you avoided.
+
+### 2. Ground — build the truth model and the transition
+
+Read the whole corpus before composing. Recover the world it describes, tracking only the dimensions that matter: actors and stakes; time, space, sequence, causes, dependencies; conflicts, alternatives, decisions, consequences, open questions; evidence, quantities, provenance, uncertainty, source and time boundaries; and the human experience the record actually supports.
+
+Separate source-grounded current state from attributed account, lived experience, inference, interpretation, proposed structure, and hypothetical illustration. Label anything proposed. Never let a design choice become a source fact.
+
+Then define the audience transition concretely:
 
 ```text
 From: what they now know, assume, feel, need, resist, or cannot yet do
 To:   what they should correctly understand, believe, feel, decide, remember, or do
 ```
 
-Treat each dimension separately. A piece may need comprehension without persuasion, trust without emotion, or action without memorability. Do not optimize one outcome as a proxy for all of them.
+Treat each dimension separately. A piece may need comprehension without persuasion, trust without emotion, or action without memorability. Do not optimize one as a proxy for the rest. Model prior knowledge from evidence, not demographics.
 
-Model prior knowledge from evidence, not demographics. Give the reader the minimum orientation needed to interpret what follows. Add more scaffolding for a novice or an unfamiliar system. Remove it when an expert already owns the frame.
+Close Ground by answering one question: **what would make this artifact wrong?** Carry that answer to Attack.
 
-## Build the truth model before the arc
+### 3. Diverge — generate candidates, not variations
 
-Read the full source corpus and recover the real world it describes. Track only the dimensions that matter:
+Produce at least three materially different architectures. Different means a different job for the audience or a different organizing relation, not the same spine with a new opening.
 
-- actors, entities, states, goals, pressures, and stakes;
-- time, space, sequence, causes, dependencies, and constraints;
-- conflicts, alternatives, decisions, consequences, and open questions;
-- evidence, quantities, provenance, uncertainty, and source or time boundaries;
-- human experience and emotion that the record actually supports.
+The first structure that fits is almost always the conventional one, because convention arrives first. The stronger candidate typically appears only after the obvious ones are on the table and rejected. Build candidates cheaply, in outline; a structure that cannot be sketched quickly is one whose load-bearing relationship you have not found yet, and the failure to sketch is the finding.
 
-Separate source-grounded current state from attributed account, lived experience, inference, interpretation, proposed architecture, and hypothetical illustration. Label proposed structures and recommendations; never let a design choice become a source fact. Preserve coequal truths and details that matter only together. Do not force a complex corpus into one slogan when several relationships are load-bearing.
+**Always include the non-narrative candidate.** If a direct answer, table, map, schema, runbook, comparison, or decision record would serve better, it must be in the running or you cannot claim to have chosen.
 
-Audit what the finished artifact as a whole would cause its audience to infer, not only its explicit sentences. Wherever the artifact represents evidence or the real world, no wording, structure, image, sound, interaction, or synthesis may add or merge an unsupported fact or relationship, including category, authority, capability, sequence, state, scope, reference frame, degree, or closure. Keep materially distinct source terms, sets, and time states separate unless the evidence establishes their mapping.
+### 4. Commit — choose, and record the runner-up
 
-Do not complete an underspecified real system from plausibility. Preserve the behavior or outcome the source establishes; leave its interface, mechanism, ownership, routes, and other implementation details unknown or visibly proposed unless the evidence supplies them.
+Choose by audience outcome, truth, surface fit, and evidence visibility. Not by drama, cleverness, novelty, or which candidate is cheapest to produce.
 
-Truth precedes arc:
+Name the runner-up and why it lost. This costs one line and buys two things: a choice that can be checked later, and a cheap re-entry point when Attack sends you back.
 
-- Unless fiction or hypothetical construction is explicitly authorized, never invent or silently composite a person, scene, quote, motive, conflict, causal link, chronology, stake, or resolution. In authorized fiction, invent within the brief and keep any real claim or source boundary distinguishable; do not present fictional detail as sourced fact.
-- Chronology does not prove causation. Sequence facts so the audience cannot reasonably infer a stronger relationship than the evidence supports.
-- Match completion and remediation claims to the exact established scope. Do not turn controls, partial progress, uncertainty, or an open decision into closure.
-- Let an anecdote exemplify a pattern, never silently stand in for representative evidence.
-- Before composing, pair each candidate quantity with all source context needed to interpret it: denominator, unit, population, time and spatial scope, range type, and every explicit limitation that changes its meaning. Treat them as one unit. If the whole unit cannot fit, reallocate space or choose different support. Keep claims, assumptions, alternatives, uncertainty, and counterevidence independently legible when judgment matters.
-- Keep emotional intensity proportional to the source. Do not manufacture urgency, villains, triumph, scarcity, or a heroic founder.
+### 5. Build — architecture, sequence, channels, composition
 
-## Choose the architecture after the truth and audience are clear
+**Architecture families.** Match the audience's job:
 
-Use the form that best carries the audience transition. Combine forms when their jobs differ.
-
-| Audience job | Strong starting architecture |
+| Audience job | Starting architecture |
 |---|---|
 | Experience real change over time | Narrative: actor or system, goal, pressure, choice, consequence |
 | Understand why or how | Explanation: frame, parts, relations, mechanism, boundary |
 | Judge a claim or decision | Argument: claim, evidence, warrant, countercase, implication |
 | See that something works | Demonstration: prior state, intervention, observable change, proof |
-| Learn and transfer | Learning progression: frame, model, worked example, contrast, application |
+| Learn and transfer | Progression: frame, model, worked example, contrast, application |
 | Act correctly | Instruction: goal, prerequisites, sequence or decision points, verification |
-| Get oriented or retrieve later | Map or reference: entry point, hierarchy, ownership, relations, current state |
+| Orient and retrieve later | Map: entry point, hierarchy, ownership, relations, current state |
 | Align around identity or direction | Manifesto: diagnosis, conviction, principles, consequences, invitation |
 
-Read [architectures and surfaces](references/architectures-and-surfaces.md) when selecting a structure for a named medium, adapting one corpus across media, or separating live sequence from persistent reference.
+Combine families when the audience has several jobs, and make each mode change legible.
 
-Reject narrative when a direct answer, schema, table, map, runbook, comparison, decision record, or technical reference produces a more accurate, usable result.
+**Decide the architecture before opening the tool that renders it.** Every authoring surface carries a default structure — the bullet slide, the document outline, the database template, the field set — and that default becomes the structure of the meaning unless a decided architecture is already in place. The tool holds the artifact; it does not do the thinking, and its convenience is not evidence about the material.
 
-Do not default to a hook, protagonist, conflict, three acts, a hero's journey, surprise, climax, or call to action. These are available moves, not universal requirements. Use contrast, curiosity, suspense, emotion, and metaphor only when they arise from the material and advance the audience's job. Each works through a specific mechanism and fails in a specific way; [architectures and surfaces](references/architectures-and-surfaces.md) records both, so that a move is chosen for its effect rather than reached for by habit.
+**Units.** For sequential artifacts, treat each beat as a unit with an audience-facing function, not as a fixed slide, sentence, or section. For non-linear surfaces, design functional units, entry paths, relationships, and routes. For each unit know what the audience needs to enter it, what it supplies, why the next beat or route becomes useful, which source supports it, and which channel carries it. State that job in one line: a unit needing a paragraph is several units, or one whose function is undecided.
 
-## Find the governing change and throughline
+In sequential forms, order by comprehension and consequence — frame before the details that depend on it — and vary pace by processing need. In non-linear forms, optimize entry, navigation, relationships, current-state visibility, and return use.
 
-State the smallest faithful change the artifact must make in the audience. It may be one core idea, a set of coequal claims, a decision, a shared operating model, or a navigable system.
+**Channels.** Words for precision, reasoning, voice, and relations that need naming. Visuals for structure, comparison, scale, movement, spatial relation, evidence, or grounded atmosphere prose would make harder to perceive. Sound and motion when temporal effect matters. Interaction when participation, exploration, or progressive disclosure improves the result.
 
-Then identify the load-bearing support and relationships. Prefer causal or dependency structure over a mere chronology when the sources establish it. For multicausal or contested material, preserve the network rather than inventing a neat chain.
+Coordinate rather than duplicate. Provide every material identity, meaning, relationship, action, state, and instruction through each access mode the artifact must support; access in one channel does not substitute for another. Preserve the information or function, not the sensory form — captions, transcripts, descriptions, labels, and keyboard routes are functional access, not clutter.
 
-Before committing, generate several materially different architectures rather than variations on the first. The first structure that fits is usually the most conventional one available, because convention is what arrives first; the stronger candidate tends to appear only once the obvious ones are on the table and rejected. Build the candidates cheaply, in outline — a structure that cannot be sketched quickly is usually one whose load-bearing relationship is still unclear, and sketching it is how that becomes visible. Then choose by audience outcome, truth, surface fit, and evidence visibility, not by drama, cleverness, or which candidate is easiest to produce.
+When the subject has no physical form — a service, a policy, a capability, a strategy, a commitment — there is nothing to simply show, and the reflex is decoration. Build the perceptible form instead: the structure, the flow, the before and after, the decision, the boundary, the moment it becomes visible in someone's experience.
 
-## Build the sequence or information architecture
+For live delivery, design speaker and surface together and give the speaker a structure to hold rather than a script to recall; a delivery reconstructed from an understood structure survives interruption and equipment failure. For read-alone or maintained artifacts, make the record interpretable without missing narration.
 
-Decide the architecture before opening the tool that will render it. Every authoring surface carries a default structure — the title-and-bullets slide, the document outline, the database template, the form field, the section header — and that default becomes the structure of the meaning unless a decided architecture is already in place to override it. The tool holds the artifact; it does not do the thinking, and its convenience is not evidence about the material.
+**Composition.** Concrete actors, actions, examples, and quantities where they carry meaning. Preserve technical language and abstraction when they are the accurate form of the idea. Explain unfamiliar terms at the point of need.
 
-For sequential artifacts, treat each beat as a unit with a clear audience-facing function, not as a fixed slide, sentence, scene, or section. For non-linear or repeated-use surfaces, design functional units, entry paths, relationships, and routes; do not force every unit into one order.
+A quantity means something only against a reference frame the audience already holds — a rate, duration, comparison, or familiar equivalent. Supply it, then check what it asserts: a comparison is a claim about relevance, and a poor comparator misleads more efficiently than the bare number. This is a separate requirement from fidelity and never licenses dropping the qualifiers the number travels with.
 
-For each unit, know:
+Let facts carry their own weight. Avoid decorative metaphor, cinematic filler, staged reveals, significance announcements, and language that performs importance. Relevant texture, humor, and emotion may stay when removing them would weaken the requested effect.
 
-- what the audience needs to enter or interpret it;
-- what new model, question, feeling, proof, decision, orientation, or route it supplies;
-- why the next beat or adjacent route becomes useful;
-- which source supports it;
-- which channel should carry it.
+Select; do not compress. Cut a unit only when it does not improve understanding, judgment, memory, action, retrieval, or the requested experience. When a unit survives, name why — material is most often kept because removing it feels risky to the author or because it was expensive to produce, and neither is a benefit the audience receives.
 
-State that job in one line. A unit needing a paragraph to justify itself is usually several units, or one whose function has not yet been decided.
+## Truth rules
 
-In sequential forms, order beats by comprehension and consequence. Give the audience a useful frame before details that depend on it. Make real causes, dependencies, contrasts, and transitions visible. Vary pace according to processing need: spend time where the model changes, evidence must be judged, emotion must land, or a decision turns.
+These bind at every stage and override every craft preference. A defect here is a defect in the artifact, not a matter of taste.
 
-In non-linear forms, optimize entry, navigation, relationships, current-state visibility, and return use. A unit earns its place through a necessary function, not through forced progression. Use headings and cues to reveal structure, not to restate it.
+- Audit what the finished artifact **as a whole** causes its audience to infer, not only what its sentences state. No wording, structure, image, sound, interaction, or synthesis may add or merge an unsupported fact or relationship — including category, authority, capability, sequence, state, scope, reference frame, degree, or closure.
+- Unless fiction or hypothetical construction is authorized, never invent or silently composite a person, scene, quote, motive, conflict, causal link, chronology, stake, or resolution. In authorized fiction, invent within the brief and keep any real claim distinguishable.
+- **Chronology does not prove causation.** Sequence carries an implicit *therefore*. Order facts so the audience cannot reasonably infer a stronger relationship than the evidence supports.
+- Match completion and remediation claims to the exact established scope. Controls, partial progress, uncertainty, and open decisions are not closure.
+- An anecdote may exemplify a pattern. It may never silently stand in for representative evidence.
+- **Check that the evidence presented measures the claim being made.** A figure that is accurate, correctly qualified, and about a different quantity than the claim is the most durable way to mislead, because every individual element survives fact-checking. When the artifact asserts something the available numbers do not measure, say what they do measure and that the claim is unmeasured.
+- Pair every quantity with the context needed to interpret it — denominator, unit, population, time and spatial scope, range type, and every limitation that changes its meaning — and treat them as one indivisible unit. If the whole unit will not fit, reallocate space or choose different support.
+- Keep emotional intensity proportional to what the source supports. Do not manufacture urgency, villains, triumph, scarcity, or a heroic founder.
+- Do not complete an underspecified real system from plausibility. Preserve the behavior the source establishes; leave interface, mechanism, ownership, and routes unknown or visibly proposed.
+- Preserve coequal truths. Do not force a corpus into one slogan when several relationships are load-bearing.
 
-## Assign each channel a job
+## 6. Attack — read it cold, then route the repair
 
-Use words for precision, reasoning, voice, and relations that need naming. Use visuals for structure, comparison, scale, movement, spatial relation, evidence, or grounded atmosphere that prose would make harder to perceive. Use sound and motion when their temporal effect matters. Use interaction when participation, exploration, navigation, manipulation, or progressive disclosure improves the audience's result.
+Read the finished artifact as a member of the intended audience who has none of your context. Then answer the Ground question: what would make this wrong, and did it happen?
 
-When the subject has no natural physical form — a service, a policy, a capability, a strategy, a commitment — there is nothing to simply show, and the reflex is to fill the gap with decoration. Build the perceptible form instead: the structure, the flow, the before and after, the decision, the boundary, the moment it becomes visible in someone's experience. An invisible subject needs a constructed form, not a stock image standing where one should be.
+Diagnose by symptom, and re-enter the loop at the stage named. Do not repair a structural failure with prose edits.
 
-Coordinate the channels. Avoid redundant repetition unless it provides accessibility, reinforcement, or recoverability. Provide every material identity, meaning, relationship, action, state, and instruction through each access mode the artifact must support; access in one channel does not substitute for access in another. Preserve the information or function, not necessarily the sensory form. Captions, transcripts, audio or text descriptions, labels, keyboard routes, and equivalent summaries are functional access, not clutter. Check that the audience can decode the visual grammar; add labels or verbal support when it is not self-evident.
+| Symptom | Diagnosis | Re-enter at |
+|---|---|---|
+| Audience recovers the core but concludes something stronger than the evidence supports | Truth defect built into the structure | **Ground**, then Diverge |
+| Every unit looks necessary, yet the whole does not land | Wrong architecture | **Diverge** |
+| You keep editing sentences and it keeps not improving | Structural failure wearing a prose costume | **Diverge** |
+| The most memorable element is not the most important | Salience and importance came apart | **Build** |
+| A unit's job takes a paragraph to state | Function undecided | **Build** |
+| The artifact needs narration or a guide to make sense | Surface mismatch | **Build**, channels |
+| The audience understands but cannot act | Transition never defined on the *do* dimension | **Ground** |
+| A number is accurate but means nothing to the reader | Missing reference frame | **Build**, composition |
+| Every figure checks out, but none of them measures the claim | Evidence/claim mismatch | **Ground** |
+| It reads as generic and could describe a competitor | Governing change never specified | **Ground** |
+| It is beautiful and you cannot say what changed for the audience | Craft substituted for function | **Commit** |
 
-For live delivery, design the speaker and the surface together, and give the speaker a structure to hold rather than a script to recall. A delivery reconstructed from an understood structure survives interruption, question, and equipment failure; a recited one does not. For read-alone or maintained artifacts, make the record interpretable and retrievable without missing narration. For compact repeated-use surfaces, keep story in the orientation only when it helps; let the information architecture own everyday navigation and action.
+Ship only when all of these hold:
 
-## Compose for immediate understanding
-
-Use concrete actors, actions, examples, and quantities when they carry meaning. Preserve technical language and abstraction when they are the accurate form of the idea. Explain unfamiliar terms at the point of need.
-
-A quantity means something to the audience only against a reference frame they already hold. Supply the comparison, rate, duration, or familiar equivalent that makes the number interpretable, and then check what that frame asserts: a comparison is a claim about relevance, and a poorly chosen comparator misleads more efficiently than the bare number would. Interpretability is a separate requirement from fidelity, and it does not license dropping the qualifiers the number travels with.
-
-A conversational register earns attention because it recruits the audience as a participant rather than a recipient; sustained formality without any of it is genuinely harder to stay with. It fails the moment it becomes a costume worn over material the author does not actually hold, at which point it reads as performance and costs more credibility than a plainly formal register would have. The register has to be affordable given what is really known.
-
-Let facts carry their own weight. Avoid story skin: decorative metaphors, cinematic filler, staged reveals, significance announcements, epigrams, and language that performs importance. Relevant texture, humor, atmosphere, and emotion may remain when removing them would weaken the requested effect.
-
-Select; do not compress. Cut a unit only when it does not improve correct understanding, judgment, memory, action, retrieval, or the requested experience.
-
-When a unit survives, check why it survived. Material is most often kept because removing it feels risky to the author, or because it was expensive to produce, and neither is a benefit the audience receives. Completeness offered as self-protection reaches the audience as an undifferentiated pile, which protects no one. Do not expose the discarded structures, editorial doctrine, or production process in the finished artifact unless the user requested an audit.
-
-## Run the audience-side audit
-
-Read the finished artifact as a cold member of the intended audience. Rebuild, rather than patch, when a structural failure appears.
-
-Require all of these:
-
-- After one pass, the audience can recover the correct core, important support, limits, and next implication.
-- In source-grounded work, audit every audience instruction and implied operating path against the truth model. Every label, control, route, workflow, capability, or state it relies on must be established by evidence or visibly proposed, conditional, or unknown.
-- Recheck each required access mode and each salience-bearing synthesis against the truth model. It must preserve every material fact, relationship, qualifier, and function without relying on another mode or adding a stronger claim.
-- For every visible quantity, return to its source and verify that every interpretation-changing qualifier and limitation travels with it.
+- After one pass, the audience recovers the correct core, important support, limits, and next implication.
 - What is most memorable is also important and well supported.
-- Every unit has a necessary audience-facing function. In sequential forms, the order is earned; in non-linear forms, the entry paths and relationships support actual use.
-- Re-evaluate the architecture when the audience, purpose, surface, or moment changes. Change it when the communicative job changes; do not force novelty when the same structure remains optimal.
-- Evidence remains inspectable. Narrative coherence never substitutes for proof.
-- The surface works natively: performed media can unfold; scanned media can be scanned; maintained systems can be navigated and retrieved.
-- No simpler non-narrative form would work as well or better.
-- The artifact preserves the requested voice, exact contracts, material quantities, uncertainty, boundaries, and coequal truths.
+- Every unit has a necessary function; sequence is earned, or routes support real use.
+- Evidence stays inspectable. Coherence never substitutes for proof.
+- The surface works natively: performed media unfold, scanned media scan, maintained systems retrieve.
+- No simpler non-narrative form would work as well.
+- Requested voice, exact contracts, quantities, uncertainty, boundaries, and coequal truths survive intact.
 
-Read [quality and evaluation](references/quality-and-evaluation.md) for consequential work, Skill evaluation, same-source cross-audience testing, or red-team review. Read [research foundation](references/research-foundation.md) only when a principle is contested, a new rule is proposed, or this Skill is being revised.
+## Hard cases
+
+The situations where the default move is confidently wrong.
+
+**No story is available.** The material has no actor, no change, no chronology. Do not manufacture one. Produce the map, explanation, comparison, or reference. Saying "there is no story here and here is what there is instead" is a successful outcome of this Skill, not a failure to apply it.
+
+**Sources contradict each other.** Make the conflict a first-class object with its own place in the artifact. Do not silently pick a winner, average them, or hide the disagreement in a footnote. The audience's real job is usually to judge the conflict, not to receive a resolution you invented.
+
+**Two audiences, opposed interests, one artifact.** Never write to the average — it serves neither. Either split the artifact, or make the divergence explicit and give each audience a legible path. If a single artifact genuinely cannot serve both, say so.
+
+**The outcome is bad, or the material is painful.** Proportion is the entire job. Do not manufacture uplift, do not dwell, do not aestheticize harm. Give the audience what they need to understand and act, at the emotional weight the situation actually carries. A resolution the world has not reached is a lie regardless of how kind it feels.
+
+**The evidence is thin.** State what is known, what is not, and what would settle it. Thin evidence presented with confident structure is the most damaging output available here, because the structure does the asserting the evidence cannot.
+
+**The surface has no convention.** A voice interface, a physical sign, an embedded empty state, a wearable, something new. Do not import a template. Derive from the access mode: what can this audience perceive, in what order, with what control, under what attention and time budget, and what happens when they miss it.
+
+**The material is adversarial or the audience is hostile.** Lead with what the audience already believes and can verify. Make the evidence independently inspectable before the conclusion, not after. Narrative transport is exactly the wrong instrument on an audience actively arguing with you.
+
+**The request is impossible as stated.** Name the gap between what is wanted and what is supported, then propose the nearest artifact that is both useful and true. Do not deliver the impossible thing with the gap hidden inside it.
+
+## References
+
+- [architectures and surfaces](references/architectures-and-surfaces.md) — architecture families in depth, surface adaptations, hybrid design, the moves and their mechanisms, the no-story branch.
+- [quality and evaluation](references/quality-and-evaluation.md) — failure classes, artifact audit, behavioral evaluation, stopping rule. Read for consequential work, red-team review, or Skill evaluation.
+- [research foundation](references/research-foundation.md) — the empirical ledger. Read when a principle is contested, a new rule is proposed, or this Skill is being revised.
