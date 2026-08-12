@@ -1,0 +1,4 @@
+interface:
+  display_name: "Storytelling"
+  short_description: "Architect truthful meaning for any audience"
+  default_prompt: "Use $storytelling to create the strongest truthful, audience-native meaning architecture for this material and surface."

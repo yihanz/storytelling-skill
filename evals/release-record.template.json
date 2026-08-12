@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "skill_name": "storytelling",
+  "canonical_source": {
+    "path": null,
+    "sha256": null,
+    "fixture_sha256": null
+  },
+  "surface_results": [
+    {
+      "surface": "local-agent-runtime",
+      "target_identity": "<AGENT_SKILLS_DIR>/storytelling",
+      "ownership": "user-owned",
+      "access": null,
+      "runtime_version": null,
+      "model_and_mode": null,
+      "target_validator": {
+        "command_or_identity": null,
+        "result": null,
+        "evidence": null
+      },
+      "present": null,
+      "enabled_or_installed": null,
+      "readback_sha256": null,
+      "explicit_canary": null,
+      "implicit_positive_suite": null,
+      "near_miss_negative_suite": null,
+      "behavior_suite": null,
+      "evidence": [],
+      "residue": []
+    },
+    {
+      "surface": "hosted-agent-web",
+      "target_identity": "<AGENT_SKILLS_DIR>/storytelling",
+      "ownership": null,
+      "access": null,
+      "runtime_version": null,
+      "model_and_mode": null,
+      "target_validator": {
+        "command_or_identity": null,
+        "result": null,
+        "evidence": null
+      },
+      "present": null,
+      "enabled_or_installed": null,
+      "readback_sha256": null,
+      "explicit_canary": null,
+      "implicit_positive_suite": null,
+      "near_miss_negative_suite": null,
+      "behavior_suite": null,
+      "evidence": [],
+      "residue": []
+    }
+  ],
+  "release_decision": null,
+  "release_blockers": [],
+  "notes": null
+}

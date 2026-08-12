@@ -1,0 +1,263 @@
+{
+  "schema_version": 1,
+  "skill_name": "storytelling",
+  "discovery_cases": [
+    {
+      "id": "D01",
+      "prompt": "Turn this research corpus into the throughline and beat structure for a keynote that a mixed executive audience can follow.",
+      "should_activate": true,
+      "reason": "Direct request for audience-native story architecture."
+    },
+    {
+      "id": "D02",
+      "prompt": "I need to catch a new partner up on this project. Find the clearest way to move them from zero context to the current decisions and open questions.",
+      "should_activate": true,
+      "reason": "Indirect request for a complex briefing and audience transition."
+    },
+    {
+      "id": "D03",
+      "prompt": "Use the same source material to build a live pitch, a read-alone deck, and the orientation page for our Notion workspace.",
+      "should_activate": true,
+      "reason": "Cross-surface meaning architecture."
+    },
+    {
+      "id": "D04",
+      "prompt": "Find the honest story in this founder history, but do not manufacture a hero arc or pretend the outcome is resolved.",
+      "should_activate": true,
+      "reason": "Explicit factual narrative with fidelity boundaries."
+    },
+    {
+      "id": "D05",
+      "prompt": "$storytelling Turn these interview notes and product evidence into a commercial storyboard.",
+      "should_activate": true,
+      "reason": "Explicit invocation."
+    },
+    {
+      "id": "D06",
+      "prompt": "Rewrite this paragraph so it is grammatically correct and friendlier.",
+      "should_activate": false,
+      "reason": "Ordinary sentence editing does not need meaning architecture."
+    },
+    {
+      "id": "D07",
+      "prompt": "Return exactly this JSON object with the keys in the supplied order.",
+      "should_activate": false,
+      "reason": "An exact schema already determines the form."
+    },
+    {
+      "id": "D08",
+      "prompt": "Teach me how database transactions work and check my understanding.",
+      "should_activate": false,
+      "reason": "General tutoring belongs to a teaching or learning Skill unless narrative architecture is requested."
+    },
+    {
+      "id": "D09",
+      "prompt": "Write a complete literary essay in the author's own first-person voice from these notes.",
+      "should_activate": false,
+      "reason": "A first-person voice or essay Skill owns that genre and its source-specific constraints."
+    },
+    {
+      "id": "D10",
+      "prompt": "Build and render a PowerPoint from this already approved slide-by-slide script.",
+      "should_activate": false,
+      "reason": "Presentation production owns a fully specified deck when no meaning architecture remains open."
+    }
+  ],
+  "behavior_cases": [
+    {
+      "id": "B01",
+      "name": "Same corpus, different audiences",
+      "prompt": "Using the supplied product corpus, create distinct architectures for an investor, a new employee, and a prospective customer.",
+      "must": [
+        "Preserve one truth model across all three outputs",
+        "Change the governing transition, sequence, evidence emphasis, and surface logic by audience",
+        "Keep material quantities, assumptions, risks, and boundaries where each audience needs them"
+      ],
+      "must_not": [
+        "Reuse one arc with only tonal changes",
+        "Invent a founder or customer story"
+      ]
+    },
+    {
+      "id": "B02",
+      "name": "Live versus read-alone deck",
+      "prompt": "Adapt this launch story for a live talk and a read-alone deck.",
+      "must": [
+        "Distribute meaning across speaker and visuals in the live version",
+        "Make the read-alone version self-contained and judgeable",
+        "Preserve the same evidence and conclusion"
+      ],
+      "must_not": [
+        "Produce identical slides for both surfaces",
+        "Leave evidence dependent on missing narration"
+      ]
+    },
+    {
+      "id": "B03",
+      "name": "No honest arc",
+      "prompt": "Turn this static technical reference into a compelling story even though it contains no actors, change, or chronology.",
+      "must": [
+        "Reject manufactured narrative",
+        "Choose a system map, explanation, reference structure, or direct answer",
+        "Explain the architecture only if the user requested rationale"
+      ],
+      "must_not": [
+        "Invent a protagonist, conflict, or transformation",
+        "Treat lack of narrative as failure"
+      ]
+    },
+    {
+      "id": "B04",
+      "name": "Causal montage trap",
+      "prompt": "The source says adoption rose after the campaign, but does not establish causation. Build the case-study story.",
+      "must": [
+        "Preserve the event order",
+        "State that causal attribution is unproven",
+        "Keep plausible contributors or alternatives visible"
+      ],
+      "must_not": [
+        "Use sequence to imply that the campaign caused adoption",
+        "Turn correlation into a triumphant resolution"
+      ]
+    },
+    {
+      "id": "B05",
+      "name": "Anecdote versus base rate",
+      "prompt": "A vivid customer story conflicts with the larger outcome distribution. Shape a persuasive board presentation.",
+      "must": [
+        "Make the distribution and conflict independently legible",
+        "Use the anecdote only at its supported evidentiary weight",
+        "Preserve uncertainty and the decision implication"
+      ],
+      "must_not": [
+        "Let emotional salience override representative evidence",
+        "Hide the conflict to protect momentum"
+      ]
+    },
+    {
+      "id": "B06",
+      "name": "Open ending",
+      "prompt": "Create a partner-onboarding narrative for a project whose strategy and ownership are still unresolved.",
+      "must": [
+        "Orient the partner to purpose, current state, actors, dependencies, and open decisions",
+        "End with the real unresolved state and next moves",
+        "Separate orientation story from maintained reference and ownership fields"
+      ],
+      "must_not": [
+        "Invent consensus or closure",
+        "Replace operational canon with an origin story"
+      ]
+    },
+    {
+      "id": "B07",
+      "name": "Notion workspace",
+      "prompt": "Use this company corpus to set up a Notion workspace that quickly brings people into the story and remains useful every day.",
+      "must": [
+        "Use narrative only where it improves orientation",
+        "Design canonical homes, hierarchy, relationships, ownership, status, and retrieval for repeated use",
+        "Keep mutable facts in live owners"
+      ],
+      "must_not": [
+        "Turn databases and section descriptions into narrative essays",
+        "Serialize process doctrine into the operating surface"
+      ]
+    },
+    {
+      "id": "B08",
+      "name": "Commercial storyboard",
+      "prompt": "Create a 30-second commercial storyboard from verified product claims and one supported customer situation.",
+      "must": [
+        "Give each frame, sound, line, and transition an audience job",
+        "Show the product doing meaningful work",
+        "Keep claims and emotional intensity within the source",
+        "Respect the 30-second duration"
+      ],
+      "must_not": [
+        "Add cinematic filler or stock metaphors",
+        "Let emotion conceal what the product does"
+      ]
+    },
+    {
+      "id": "B09",
+      "name": "Technical explanation",
+      "prompt": "Explain this multicausal failure to new engineers using a story if useful.",
+      "must": [
+        "Preserve multiple causes, interactions, failure boundaries, and exact terms",
+        "Use a system or causal model when it carries the material better than narrative",
+        "Add enough frame for the stated audience"
+      ],
+      "must_not": [
+        "Collapse the failure to one villain or cause",
+        "Replace the mechanism with an analogy"
+      ]
+    },
+    {
+      "id": "B10",
+      "name": "Manifesto without enemy",
+      "prompt": "Turn these convictions into a manifesto. The sources establish a worldview but no external enemy.",
+      "must": [
+        "Build movement from observed reality through conviction and consequences",
+        "Preserve the requested voice and plurality",
+        "Let real tension come from assumptions, choices, or implications"
+      ],
+      "must_not": [
+        "Invent an enemy, crisis, or founder mythology",
+        "Use repeated declarations of importance as substance"
+      ]
+    },
+    {
+      "id": "B11",
+      "name": "Exact audit",
+      "prompt": "Present the audit result with exact filenames, counts, failures, and residue. Do not narrativize it.",
+      "must": [
+        "Choose an exact report, table, or direct structure",
+        "Preserve every required field and value",
+        "Keep the result easy to scan"
+      ],
+      "must_not": [
+        "Add a hook, emotional arc, or story",
+        "Omit residue for flow"
+      ]
+    },
+    {
+      "id": "B12",
+      "name": "Process stays backstage",
+      "prompt": "After researching and testing several story structures, deliver the final elevator pitch.",
+      "must": [
+        "Return the finished pitch in the requested form",
+        "Preserve the strongest grounded outcome and proof signal"
+      ],
+      "must_not": [
+        "Narrate searches, discarded arcs, tests, retries, or editorial doctrine",
+        "Return only a plan or story spine"
+      ]
+    }
+  ],
+  "hard_release_gates": [
+    "portable_and_target_validation",
+    "source_fidelity_and_no_fabrication",
+    "same_source_cross_audience_adaptation",
+    "same_intent_cross_surface_adaptation",
+    "no_story_and_exactness_controls",
+    "causal_and_evidentiary_integrity",
+    "implicit_precision_and_sibling_boundaries",
+    "two_independent_clean_red_teams",
+    "sealed_holdout_without_hard_failure"
+  ],
+  "required_release_checks": [
+    "portable_package_gate",
+    "target_owned_package_gate",
+    "exact_target_identity",
+    "installed_or_enabled_state",
+    "readback_or_exact_residue",
+    "fresh_explicit_invocation",
+    "implicit_positive_cases",
+    "near_miss_negative_cases",
+    "representative_behavior_suite",
+    "source_fidelity_and_no_fabrication",
+    "same_source_cross_audience_adaptation",
+    "same_intent_cross_surface_adaptation",
+    "no_story_and_exactness_controls",
+    "separate_local_and_web_results"
+  ]
+}

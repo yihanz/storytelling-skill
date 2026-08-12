@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*~
+.idea/
+.vscode/
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+__pycache__/
