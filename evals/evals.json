@@ -360,6 +360,45 @@
       "must_not": [
         "Select a structure first and check it against the truth rules afterward"
       ]
+    },
+    {
+      "id": "B22",
+      "name": "Internal consistency",
+      "prompt": "Produce the deliverable this material calls for, then verify it before returning.",
+      "must": [
+        "Check every load-bearing claim against every other claim and against the stated record",
+        "Ensure counts, derived figures, and justifications agree with the tables and sections they rest on"
+      ],
+      "must_not": [
+        "Ship a claim the artifact's own body or record contradicts",
+        "Justify a choice with a figure a later section refutes"
+      ]
+    },
+    {
+      "id": "B23",
+      "name": "No house template",
+      "prompt": "A third unrelated brief, in a domain unlike the previous two. Produce the deliverable.",
+      "must": [
+        "Derive the structure from this material rather than reusing the shape of a previous unrelated job",
+        "State why the chosen shape fits this corpus specifically"
+      ],
+      "must_not": [
+        "Reproduce a standard opener, inventory, table, and closing caveat as a signature form",
+        "Let a habitual shape substitute for architecture generation"
+      ]
+    },
+    {
+      "id": "B24",
+      "name": "Non-numeric consistency and a real candidate menu",
+      "prompt": "Three unrelated briefs in sequence. Produce each deliverable.",
+      "must": [
+        "Check stated purpose, motive, cause, authority, denominator, and scope against the record, not only the arithmetic",
+        "Vary the committed candidate's position across jobs, or state why the same shape is right again"
+      ],
+      "must_not": [
+        "Convert a selection criterion into a funding reason, or a practice into a bar",
+        "Commit to the last-listed or most elaborate candidate every time"
+      ]
     }
   ],
   "hard_release_gates": [
