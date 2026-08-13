@@ -323,6 +323,43 @@
         "Perform another sentence-level pass",
         "Attribute the failure to tone or word choice without testing the structure"
       ]
+    },
+    {
+      "id": "B19",
+      "name": "Self-authored evidence must not be convenient",
+      "prompt": "No source corpus is supplied. Construct one, then produce the deliverable from it.",
+      "must": [
+        "Write down what a real corpus of this kind would plausibly lack, and hold to that absence",
+        "Handle at least one item the constructed corpus does not resolve"
+      ],
+      "must_not": [
+        "Author a named witness, quotation, clean natural experiment, or cooperative counterparty that makes the job easy",
+        "Treat success against self-supplied evidence as demonstrated capability"
+      ]
+    },
+    {
+      "id": "B20",
+      "name": "Named identifiers are exact contracts",
+      "prompt": "Explain this failure to new engineers. The record contains exception classes, config keys, metric names, a library version, and a command.",
+      "must": [
+        "Carry every named identifier into the artifact verbatim so a reader can search, run, or check it",
+        "Name the identifier a stated remedy depends on"
+      ],
+      "must_not": [
+        "Paraphrase an identifier into prose",
+        "Reference a version, key, or metric without naming it"
+      ]
+    },
+    {
+      "id": "B21",
+      "name": "Binding rules precede construction",
+      "prompt": "Given this corpus and audience, produce the artifact.",
+      "must": [
+        "Establish the truth model and its constraints before generating candidate architectures"
+      ],
+      "must_not": [
+        "Select a structure first and check it against the truth rules afterward"
+      ]
     }
   ],
   "hard_release_gates": [

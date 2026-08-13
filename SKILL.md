@@ -53,6 +53,23 @@ Treat each dimension separately. A piece may need comprehension without persuasi
 
 Close Ground by answering one question: **what would make this artifact wrong?** Carry that answer to Attack.
 
+### Truth rules — binding from here on
+
+Everything after this point is construction, and these bind all of it. They override every craft preference. Read them before generating a single candidate architecture: a truth defect chosen at Diverge cannot be edited out at Attack.
+
+- Audit what the finished artifact **as a whole** causes its audience to infer, not only what its sentences state. No wording, structure, image, sound, interaction, or synthesis may add or merge an unsupported fact or relationship — including category, authority, capability, sequence, state, scope, reference frame, degree, or closure.
+- Unless fiction or hypothetical construction is authorized, never invent or silently composite a person, scene, quote, motive, conflict, causal link, chronology, stake, or resolution. In authorized fiction, invent within the brief and keep any real claim distinguishable.
+- **Chronology does not prove causation.** Sequence carries an implicit *therefore*. Order facts so the audience cannot reasonably infer a stronger relationship than the evidence supports.
+- Match completion and remediation claims to the exact established scope. Controls, partial progress, uncertainty, and open decisions are not closure.
+- An anecdote may exemplify a pattern. It may never silently stand in for representative evidence.
+- **Check that the evidence presented measures the claim being made.** A figure that is accurate, correctly qualified, and about a different quantity than the claim is the hardest kind of defect to catch, because every individual element survives fact-checking while the conclusion stays unsupported. When the artifact asserts something the available numbers do not measure, say what they do measure and that the claim is unmeasured.
+- Pair every quantity with the context needed to interpret it — denominator, unit, population, time and spatial scope, range type, and every limitation that changes its meaning — and treat them as one indivisible unit. If the whole unit will not fit, reallocate space or choose different support.
+- Keep emotional intensity proportional to what the source supports. Do not manufacture urgency, villains, triumph, scarcity, or a heroic founder.
+- Do not complete an underspecified real system from plausibility. Preserve the behavior the source establishes; leave interface, mechanism, ownership, and routes unknown or visibly proposed. Where the artifact must stand on its own and a fact the audience needs is missing, state the gap inside the artifact together with what would close it and who holds it. A blank left for the reader to fill is a defect rather than restraint, and it is worst on the units that carry the action.
+- **Constrain evidence you author as hard as evidence you find.** When the work requires constructing an example, illustration, hypothetical, fixture, or sample corpus, the construction is a claim about what is typical and what is available. Do not author into it the convenient witness, the clean natural experiment, the cooperative counterparty, or the quotation that no real record would have supplied. Write down what such a corpus would plausibly *lack* and hold yourself to that absence. An artifact that succeeds only against evidence its own author supplied has demonstrated nothing.
+- **Named identifiers are exact contracts.** Error strings, exception classes, library and version names, configuration keys, commands, file paths, field names, metric names, and quoted phrases reach the artifact verbatim or not at all. A paraphrased identifier is not a gentler version of the fact; it is one the audience cannot search for, run, or check.
+- Preserve coequal truths. Do not force a corpus into one slogan when several relationships are load-bearing.
+
 ### 3. Diverge — generate candidates, not variations
 
 Produce at least three materially different architectures. Different means a different job for the audience or a different organizing relation, not the same spine with a new opening.
@@ -88,7 +105,7 @@ Combine families when the audience has several jobs, and make each mode change l
 
 **Units.** For sequential artifacts, treat each beat as a unit with an audience-facing function, not as a fixed slide, sentence, or section. For non-linear surfaces, design functional units, entry paths, relationships, and routes. For each unit know what the audience needs to enter it, what it supplies, why the next beat or route becomes useful, which source supports it, and which channel carries it. State that job in one line: a unit needing a paragraph is several units, or one whose function is undecided.
 
-In sequential forms, order by comprehension and consequence — frame before the details that depend on it — and vary pace by processing need. In non-linear forms, optimize entry, navigation, relationships, current-state visibility, and return use.
+In sequential forms, order by comprehension and consequence — frame before the details that depend on it — and vary pace by processing need. In non-linear forms, optimize entry, navigation, relationships, current-state visibility, and return use. In audit, status, and reference outputs, lead with the disposition, and report every open item against what it blocks and who can close it rather than only against the test that would resolve it. A reader of a status surface is deciding; an unresolved item with no stated consequence hands that work back to them.
 
 **Channels.** Words for precision, reasoning, voice, and relations that need naming. Visuals for structure, comparison, scale, movement, spatial relation, evidence, or grounded atmosphere prose would make harder to perceive. Sound and motion when temporal effect matters. Interaction when participation, exploration, or progressive disclosure improves the result.
 
@@ -96,7 +113,7 @@ Coordinate rather than duplicate. Provide every material identity, meaning, rela
 
 When the subject has no physical form — a service, a policy, a capability, a strategy, a commitment — there is nothing to simply show, and the reflex is decoration. Build the perceptible form instead: the structure, the flow, the before and after, the decision, the boundary, the moment it becomes visible in someone's experience.
 
-For live delivery, design speaker and surface together and give the speaker a structure to hold rather than a script to recall; a delivery reconstructed from an understood structure survives interruption and equipment failure. For read-alone or maintained artifacts, make the record interpretable without missing narration.
+For live delivery, design speaker and surface together. What the speaker carries is an understood structure rather than a recalled script, because a delivery rebuilt from structure survives interruption, question, and equipment failure while a recited one does not. That structure is preparation: beat maps, unit-function tables, architecture rationale, and anything else built in order to produce the artifact stay out of the artifact unless the request asks for them. For read-alone or maintained artifacts, make the record interpretable without missing narration.
 
 **Composition.** Concrete actors, actions, examples, and quantities where they carry meaning. Preserve technical language and abstraction when they are the accurate form of the idea. Explain unfamiliar terms at the point of need.
 
@@ -135,21 +152,6 @@ Ship only when all of these hold:
 - The surface works natively: performed media unfold, scanned media scan, maintained systems retrieve.
 - No simpler non-narrative form would work as well.
 - Requested voice, exact contracts, quantities, uncertainty, boundaries, and coequal truths survive intact.
-
-## Truth rules
-
-These bind at every stage and override every craft preference.
-
-- Audit what the finished artifact **as a whole** causes its audience to infer, not only what its sentences state. No wording, structure, image, sound, interaction, or synthesis may add or merge an unsupported fact or relationship — including category, authority, capability, sequence, state, scope, reference frame, degree, or closure.
-- Unless fiction or hypothetical construction is authorized, never invent or silently composite a person, scene, quote, motive, conflict, causal link, chronology, stake, or resolution. In authorized fiction, invent within the brief and keep any real claim distinguishable.
-- **Chronology does not prove causation.** Sequence carries an implicit *therefore*. Order facts so the audience cannot reasonably infer a stronger relationship than the evidence supports.
-- Match completion and remediation claims to the exact established scope. Controls, partial progress, uncertainty, and open decisions are not closure.
-- An anecdote may exemplify a pattern. It may never silently stand in for representative evidence.
-- **Check that the evidence presented measures the claim being made.** A figure that is accurate, correctly qualified, and about a different quantity than the claim is the hardest kind of defect to catch, because every individual element survives fact-checking while the conclusion stays unsupported. When the artifact asserts something the available numbers do not measure, say what they do measure and that the claim is unmeasured.
-- Pair every quantity with the context needed to interpret it — denominator, unit, population, time and spatial scope, range type, and every limitation that changes its meaning — and treat them as one indivisible unit. If the whole unit will not fit, reallocate space or choose different support.
-- Keep emotional intensity proportional to what the source supports. Do not manufacture urgency, villains, triumph, scarcity, or a heroic founder.
-- Do not complete an underspecified real system from plausibility. Preserve the behavior the source establishes; leave interface, mechanism, ownership, and routes unknown or visibly proposed.
-- Preserve coequal truths. Do not force a corpus into one slogan when several relationships are load-bearing.
 
 ## Hard cases
 
